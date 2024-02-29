@@ -1,6 +1,6 @@
 name: "Lohberger"
 version: "1.1.0"
-slug: "firefox_k"
+slug: "firefox_l"
 panel_icon: "mdi:fire-circle"
 description: "Docker container for Firefox - Lohberger"
 url: "https://github.com/urbanbur/ha-addons/tree/main/firefox_l"
