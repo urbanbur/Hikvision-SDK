@@ -15,7 +15,7 @@ panel_admin: false
 map:
   - share:rw
 ingress: true
-ingress_port: 5802
+ingress_port: 5800
 ports:
   5802/tcp: null
   5902/tcp: null
