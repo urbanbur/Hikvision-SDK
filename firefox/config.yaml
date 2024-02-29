@@ -15,10 +15,10 @@ panel_admin: false
 map:
   - share:rw
 ingress: true
-ingress_port: 5801
+ingress_port: 5800
 ports:
-  5801/tcp: null
-  5901/tcp: null
+  5800/tcp: null
+  5900/tcp: null
 environment:
   # Required to write to /data
   USER_ID: "0"
