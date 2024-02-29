@@ -17,8 +17,8 @@ map:
 ingress: true
 ingress_port: 5800
 ports:
-  5802/tcp: null
-  5902/tcp: null
+  5800/tcp: null
+  5900/tcp: null
 environment:
   # Required to write to /data
   USER_ID: "0"
