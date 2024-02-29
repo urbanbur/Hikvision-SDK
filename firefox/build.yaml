@@ -6,5 +6,5 @@ build_from:
 labels:
   org.opencontainers.image.title: "Firefox Home Assistant Add-on"
   org.opencontainers.image.description: "Docker container for Firefox"
-  org.opencontainers.image.source: "https://github.com/mincka/ha-addons"
+  org.opencontainers.image.source: "https://github.com/urbanbur/Hikvision-SDK"
   org.opencontainers.image.licenses: "MIT"
