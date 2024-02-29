@@ -35,12 +35,12 @@ else
 fi
 ln -s /data/profile /config/profile
 
-if [ ! -d "/share/firefox" ]; then
-  mkdir -p /share/firefox
+if [ ! -d "/share/firefox_l" ]; then
+  mkdir -p /share/firefox_l
 fi
 rm -rf /config/downloads
 
-ln -s /share/firefox /config/downloads
+ln -s /share/firefox_l /config/downloads
 
 /usr/bin/firefox --version
 exec /usr/bin/firefox "$@" >> /config/log/firefox/output.log 2>> /config/log/firefox/error.log
