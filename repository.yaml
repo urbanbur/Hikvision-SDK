@@ -1,6 +1,6 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
 {
-  "name": "Hikvision-SDK Add-on",
+  "name": "Home Assistant Add-ons",
   "url": "https://github.com/urbanbur/Hikvision-SDK",
   "maintainer": "Urban <urban.burnik@gmail.com>"
 }
