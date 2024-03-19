@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "slug": "hikvision_v4l2loopback",
   "description": "V4l2Loopback with intergrated LinphoneC terminal client",
-  "url": "https://github.com/pergolafabio/Hikvision-Addons/tree/main/hikvision-v4l2loopback",	
+  "url": "https://github.com/urbanbur/Hikvision-SDK/tree/main/hikvision-v4l2loopback",	
   "startup": "services",
   "arch": ["aarch64", "amd64", "armhf", "armv7", "i386"],
   "devices": ["/dev/video0"],
