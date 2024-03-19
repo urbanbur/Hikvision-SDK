@@ -15,9 +15,9 @@
     "password": "password", 
         "bearer": "YOURLONGBEARERTOKEN",
     "url_states": "http://localhost:8123/api/states/",
-	    "sensor_door" : "hikvision_door_2",
+        "sensor_door" : "hikvision_door_2",
         "sensor_callstatus" : "hikvision_callstatus_2",
-        "sensor_motion" : "hikvision_motion_2"	
+        "sensor_motion" : "hikvision_motion_2"
 
   },
   "schema":
@@ -25,10 +25,10 @@
     "ip": "str",
     "username": "str",
     "password": "str",
-    "bearer" : "str",	
+    "bearer" : "str",
     "url_states" : "str",
         "sensor_door" : "str",
         "sensor_callstatus" : "str",
-        "sensor_motion" : "str"	
+        "sensor_motion" : "str"
    }
 }
