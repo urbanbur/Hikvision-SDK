@@ -23,9 +23,9 @@ map:
 options:
   DRIVER: "pymodbus"
   INVERTERS:
-    - SERIAL_NR: "007"
+    - SERIAL_NR:  !!binary | AAAAAAAAAAoAAG
       HA_PREFIX: MBus
-      MODBUS_ID: 1
+      MODBUS_ID: 20
       DONGLE_SERIAL_NUMBER: "0"
       PORT: "tcp://homeassistant.local:502"
   SENSOR_DEFINITIONS: single-phase
