@@ -1,8 +1,8 @@
 ---
-name: Sunsynk/Deye Inverter Add-on (my modbus)
+name: Modbus Universal Add-on (ex. kellerza/sunsynk)
 version: "0.8.2"
 image: ghcr.io/kellerza/hass-addon-sunsynk-multi
-slug: hass-addon-sunsynk-modbus
+slug: hass-addon-modbus
 description: Add-on for a Sunsynk/Deye branded Inverter + general modbus
 startup: services
 boot: auto
