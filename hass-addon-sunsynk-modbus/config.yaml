@@ -23,7 +23,7 @@ map:
 options:
   DRIVER: "pymodbus"
   INVERTERS:
-    - SERIAL_NR: "0000000000"
+    - SERIAL_NR: "1234567890"
       HA_PREFIX: MBus
       MODBUS_ID: 20
       DONGLE_SERIAL_NUMBER: "0"
