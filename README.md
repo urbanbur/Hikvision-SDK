@@ -23,4 +23,4 @@ Readme here: https://github.com/pergolafabio/Hikvision-Addons/tree/main/hikvison
 
 # Home Assistant Add-on: tesla_http_proxy
 
-Fork of deprecated https://github.com/llamafilm/tesla-http-proxy-addon HA Addon with auth servers updated
+Fork of deprecated HA Addon https://github.com/llamafilm/tesla-http-proxy-addon with auth servers updated
