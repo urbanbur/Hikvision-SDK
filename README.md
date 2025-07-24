@@ -21,6 +21,6 @@ Readme here: https://github.com/pergolafabio/Hikvision-Addons/tree/main/hikvison
 
 Readme here: https://github.com/pergolafabio/Hikvision-Addons/tree/main/hikvison-opensips
 
-# Home Assistant Add-on: testa_http_proxy
+# Home Assistant Add-on: tesla_http_proxy
 
 Fork of deprecated https://github.com/llamafilm/tesla-http-proxy-addon HA Addon with auth servers updated
