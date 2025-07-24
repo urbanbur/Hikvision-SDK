@@ -1,5 +1,11 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
+## 2.2.9
+
+### Changed
+
+- new auth servers 
+
 ## 2.2.8
 
 ### Changed
