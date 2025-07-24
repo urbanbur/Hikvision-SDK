@@ -1,7 +1,7 @@
-name: "Tesla HTTP Proxy"
-version: "2.2.8"
+name: "Tesla HTTP Proxy (Urban)"
+version: "2.2.9"
 slug: "tesla_http_proxy"
-description: "Proxy requests for Tesla Fleet API"
+description: "Proxy requests for Tesla Fleet API - repaired for new auth servers!"
 url: "https://github.com/llamafilm/tesla-http-proxy-addon/tree/main/tesla_http_proxy"
 arch:
   - armhf
